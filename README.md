@@ -1,5 +1,5 @@
 #### Run this command first to install the dependencies
   `yarn`
-#### Run the applicastion
+#### Run the application
   `yarn start`
 
